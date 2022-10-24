@@ -8,6 +8,17 @@
   body {
     background-color: white;
   }
+.heading{
+   display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    height: -10vh;
+    align-content: center;
+   margin-top: 100px;
+    padding: 10px;
+  
+}
 
   .row {
     display: flex;
